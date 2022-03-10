@@ -1,0 +1,30 @@
+[
+  {
+    "kota": "bondowoso",
+    "lama": 7,
+    "berangkat": 20210304,
+    "pulang": 20210311,
+    "cost": 2000000
+  },
+  {
+    "kota": "malang",
+    "lama": 3,
+    "berangkat": 20210205,
+    "pulang": 20210208,
+    "cost": 3000000
+  },
+  {
+    "kota": "surabaya",
+    "lama": 2,
+    "berangkat": 20210202,
+    "pulang": 20210204,
+    "cost": 4000000
+  },
+  {
+    "kota": "mojokerto",
+    "lama": 5,
+    "berangkat": 20210605,
+    "pulang": 20210610,
+    "cost": 3500000
+  }
+]

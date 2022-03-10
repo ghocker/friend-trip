@@ -1,0 +1,74 @@
+[
+  {
+    "kota": "mojokerto",
+    "barang": {
+      "barang": "tas",
+      "barang1": "payung",
+      "barang2": "timba"
+    },
+    "berat": {
+      "berat": 2,
+      "berat1": 2,
+      "berat2": 3
+    },
+    "jumlah": {
+      "jumlah": 1000,
+      "jumlah1": 3000,
+      "jumlah2": 1000
+    }
+  },
+  {
+    "kota": "bondowoso",
+    "barang": {
+      "barang": "jas",
+      "barang1": "jam",
+      "barang2": "gitar"
+    },
+    "berat": {
+      "berat": 1,
+      "berat1": 2,
+      "berat2": 3
+    },
+    "jumlah": {
+      "jumlah": 1000,
+      "jumlah1": 1000,
+      "jumlah2": 1000
+    }
+  },
+  {
+    "kota": "surabaya",
+    "barang": {
+      "barang": "tas",
+      "barang1": "baju",
+      "barang2": "jaket"
+    },
+    "berat": {
+      "berat": 3,
+      "berat1": 5,
+      "berat2": 1
+    },
+    "jumlah": {
+      "jumlah": 2000,
+      "jumlah1": 2000,
+      "jumlah2": 3000
+    }
+  },
+  {
+    "kota": "malang",
+    "barang": {
+      "barang": "sarung",
+      "barang1": "tas",
+      "barang2": "laptop"
+    },
+    "berat": {
+      "berat": 1,
+      "berat1": 3,
+      "berat2": 3
+    },
+    "jumlah": {
+      "jumlah": 5000,
+      "jumlah1": 2000,
+      "jumlah2": 2000
+    }
+  }
+]
